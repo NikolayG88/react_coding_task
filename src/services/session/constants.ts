@@ -1,0 +1,2 @@
+export const LOCAL_USER_STORAGE = 'LOCAL_USER_STORAGE'
+export const USER_SESSION = 'USER_SESSION'

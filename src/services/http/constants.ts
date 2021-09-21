@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://private-00d723-paysera.apiary-proxy.com/';
